@@ -65,8 +65,9 @@ public class WorkflowPX implements IEventAction{
 						String fileName = row1.getValue(ProgramConstants.ATT_ATTACHMENTS_FILE_NAME).toString();
 						//String fileExt = row1.getValue(ProgramConstants.ATT_ATTACHMENTS_FILE_TYPE).toString();
 
+						//
 						File file = new File("E:\\ALMFiles\\"+fileName);
-
+						
 						//String
 						System.out.println("FileName>>"+file.getName());
 						//	String filePath = file.getAbsolutePath();
