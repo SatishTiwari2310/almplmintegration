@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/axis.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/axis-jaxrpc-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/axis-saaj-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/axis-wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/event2-16.7.795.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/event-16.7.795.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jaxrpc-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jmxri-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/soap60-17.1.524.jar"/>
+	<classpathentry kind="lib" path="D:/apache-tomcat-8.5.14/webapps/ALMService/WEB-INF/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vm103932.TECHMAHINDRA/Desktop/EclipseProject/AgileAPI.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="E:/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/plugins/org.apache.commons.logging_1.0.4.v201101211617.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
